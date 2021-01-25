@@ -36,3 +36,5 @@
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 
 </details>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mdcreator&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
