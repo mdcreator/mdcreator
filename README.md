@@ -6,7 +6,7 @@
 
 📫 How to reach me: creator.marina@gmail.com
 
-[![Visits Badge](https://badges.pufler.dev/visits/mdcreator/mdcreator)](https:braydoncoyer.dev)
+https://visitor-badge.glitch.me/badge?page_id=mdcreator.visitor-badge.issue.1
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/marina-domashenko-b5811937/)
 
 ## 💼 Skills
