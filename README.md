@@ -6,7 +6,7 @@
 
 📫 How to reach me: creator.marina@gmail.com
 
-[![Visits Badge](https://badges.pufler.dev/visits/mdcreator/mdcreator)](https://github.com/mdcreator)
+[![Visits Badge](https://badges.pufler.dev/visits/mdcreator/mdcreator)]
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=mdcreator.mdcreator) -->
 
