@@ -1,9 +1,6 @@
-### Here is What i'm Working On! 👋
+### Hey, I'm Maryna! 👋
 
 🎓 I’m constantly learning new things
-
-🤝 I’m looking to collaborate with other content creators
-
 📫 How to reach me: creator.marina@gmail.com
 
 ![Profile views](https://komarev.com/ghpvc/?username=mdcreator)
