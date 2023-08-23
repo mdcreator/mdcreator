@@ -6,7 +6,7 @@
 
 📫 How to reach me: creator.marina@gmail.com
 
-![Profile views](https://gpvc.arturio.dev/mdcreator)
+![Profile views](https://komarev.com/ghpvc/?mdcreator)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/marina-domashenko-b5811937/)
 
 ## 💼 Skills
