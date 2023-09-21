@@ -1,6 +1,7 @@
 ### Hey, I'm Maryna! 👋
 
 🎓 I’m constantly learning new things
+
 🚀 I want to be involved in something great and cool.
 
 📫 How to reach me: creator.marina@gmail.com
