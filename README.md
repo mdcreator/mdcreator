@@ -1,10 +1,8 @@
 ### Hey, I'm Maryna! 👋
 
-🎓 I’m constantly learning new things
-
-🚀 I want to be involved in something great and cool.
-
-📫 How to reach me: creator.marina@gmail.com
+- 🎓 I’m constantly learning new things
+- 🚀 I want to be involved in something great and cool
+- 📫 How to reach me: creator.marina@gmail.com
 
 ![Profile views](https://komarev.com/ghpvc/?username=mdcreator)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/marina-domashenko-b5811937/)
